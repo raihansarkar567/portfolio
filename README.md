@@ -9,3 +9,11 @@ Few Of Project Link:
 3) https://demo.cloudbari.com/auction/
 
 4) https://demo.cloudbari.com/hrm/
+
+5) https://demo.cloudbari.com/e-commerce/
+
+6) https://demo.cloudbari.com/express_system_new/public/
+
+7) https://demo.cloudbari.com/online-course/
+
+8) https://demo.cloudbari.com/restaurant-website/
